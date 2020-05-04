@@ -1,0 +1,19 @@
+Private Sub Btndelete_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Btndelete.Click
+        Dim id As Integer
+        id = Val(InputBox("enter student id", "enter id", 0, 300, 300))
+        Dim con As New OleDbConnection
+        con = connectTOhms()
+        Try
+            con.Open()
+            query = "delete from RoomAllotment where S_ID = ?"
+            Dim cmd As New OleDb.OleDbCommand(query, con)
+            cmd.Parameters.AddWithValue("?", id)
+            cmd.ExecuteNonQuery()
+            con.Dispose()
+        Catch ex As Exception
+            MsgBox(ex.Message, MsgBoxStyle.Information)
+        Finally
+            con.Close()
+        End Try
+
+    End Sub

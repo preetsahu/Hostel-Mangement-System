@@ -1,0 +1,323 @@
+E:\Project\Hostel Mangement Preet\Hostel Mangement\bin\Debug\Hostel Mangement.exe
+E:\Project\Hostel Mangement Preet\Hostel Mangement\bin\Debug\Hostel Mangement.pdb
+E:\Project\Hostel Mangement Preet\Hostel Mangement\bin\Debug\Hostel Mangement.xml
+E:\Project\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.allotment.resources
+E:\Project\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.mainfrm.resources
+E:\Project\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Resources.resources
+E:\Project\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel Mangement.vbproj.GenerateResource.Cache
+E:\Project\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel Mangement.exe
+E:\Project\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel Mangement.xml
+E:\Project\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel Mangement.pdb
+E:\Project\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.studentattendance.resources
+E:\Project\Hostel Mangement Preet\Hostel Mangement\bin\Debug\Hostel Mangement.exe.config
+E:\Project\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Feepayment.resources
+E:\Project\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Employee_Attendance.resources
+E:\Project\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Employee_Detail.resources
+E:\Project\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Employee_Payment.resources
+E:\Project\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Expanse_Details.resources
+E:\Project\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.LoginForm.resources
+E:\Project\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Room_Detail.resources
+E:\Project\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Visitor.resources
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\bin\Debug\Hostel Mangement.exe.config
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\bin\Debug\Hostel Mangement.exe.manifest
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\bin\Debug\Hostel Mangement.application
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\bin\Debug\Hostel Mangement.exe
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\bin\Debug\Hostel Mangement.pdb
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\bin\Debug\Hostel Mangement.xml
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\bin\Debug\Interop.ShockwaveFlashObjects.dll
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Interop.NATUPNPLib.dll
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel Mangement.vbproj.ResolveComReference.cache
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.allotment.resources
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Attendance_View.resources
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Back_up.resources
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.BusDetails.resources
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.CalenadarDemo.resources
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.ChangePassword.resources
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.DCindia.resources
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.DeleteEmployeeDetails.resources
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.dynamiceDemo.resources
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.EmpAttendancenew.resources
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Employee.resources
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Employee_Payment.resources
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.EmployeeDetailsView.resources
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Expanse_Details.resources
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Feepayment.resources
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Form2.resources
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Gaurd_View.resources
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.LoginForm.resources
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.mainfrm.resources
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Resources.resources
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Room_Detail.resources
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.RoomView.resources
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.studentattendance.resources
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.StudentDeparture.resources
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.ViewStudentDetails.resources
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.VisitingDetail.resources
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.VisitorEntry.resources
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel Mangement.vbproj.GenerateResource.Cache
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel Mangement.exe.manifest
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel Mangement.application
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel Mangement.exe
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel Mangement.xml
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel Mangement.pdb
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel Mangement.vbprojResolveAssemblyReference.cache
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.StudenPayementReport.resources
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\bin\Debug\hms.accdb
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\RdlCompile.cache
+E:\bca3\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\RdlCompile.compiled
+C:\Hostel Mangement Preet\Hostel Mangement\bin\Debug\Hostel Mangement.exe.config
+C:\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Interop.NATUPNPLib.dll
+C:\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel Mangement.vbproj.ResolveComReference.cache
+C:\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel Mangement.exe
+C:\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel Mangement.xml
+C:\Hostel Mangement Preet\Hostel Mangement\obj\x86\Debug\Hostel Mangement.pdb
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\bin\Debug\hms.accdb
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\bin\Debug\Hostel Mangement.exe.config
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\bin\Debug\Hostel Mangement.exe.manifest
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\bin\Debug\Hostel Mangement.application
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\bin\Debug\Hostel Mangement.exe
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\bin\Debug\Hostel Mangement.pdb
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\bin\Debug\Hostel Mangement.xml
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Interop.NATUPNPLib.dll
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.vbproj.ResolveComReference.cache
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.allotment.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Attendance_View.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Back_up.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.BusDetails.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.cal.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.CalenadarDemo.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.ChangePassword.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.ReportCollection.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptClassWiseStudentView.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptDueFeesStudentList.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptDueFeesStudentListClasswise.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptEmpDateWiseAttendance.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptOverallHostelStudents.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.DCindia.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.DeleteEmployeeDetails.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.dynamiceDemo.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.EmpAttendancenew.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Employee.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Employee_Payment.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.EmployeeDetailsView.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Expanse_Details.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Feepayment.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Form2.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Gaurd_View.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.LoginForm.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.mainfrm.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Resources.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Room_Detail.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.RoomView.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptRemainingStudentlist.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptStudentBillPayment.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.StudemtCheckInOutEntry.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.StudentDailyAttendance.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.StudentDeparture.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.viewDueFessStudentClasswiseList.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.ViewStudentDetails.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.VisitingDetail.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.VisitorEntry.resources
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.vbproj.GenerateResource.Cache
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\RdlCompile.cache
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\RdlCompile.compiled
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.exe.manifest
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.application
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.exe
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.xml
+C:\Hostel Mangement 23-jan-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.pdb
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\bin\Debug\Hostel Mangement.exe
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\bin\Debug\Hostel Mangement.pdb
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\bin\Debug\hms.accdb
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\bin\Debug\Hostel Mangement.exe.config
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\bin\Debug\Hostel Mangement.exe.manifest
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\bin\Debug\Hostel Mangement.application
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Interop.NATUPNPLib.dll
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.vbproj.ResolveComReference.cache
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.allotment.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Attendance_View.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Back_up.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.BusDetails.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.cal.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.CalenadarDemo.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.ChangePassword.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.ReportCollection.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptClassWiseStudentView.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptDueFeesStudentList.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptDueFeesStudentListClasswise.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptEmpDateWiseAttendance.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptOverallHostelStudents.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.DCindia.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.DeleteEmployeeDetails.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.dynamiceDemo.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.EmpAttendancenew.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Employee.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Employee_Payment.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.EmployeeDetailsView.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Expanse_Details.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Feepayment.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Form2.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Gaurd_View.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.LoginForm.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.mainfrm.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Resources.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Room_Detail.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.RoomView.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptRemainingStudentlist.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptStudentBillPayment.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.StudemtCheckInOutEntry.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.StudentDailyAttendance.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.StudentDeparture.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.viewDueFessStudentClasswiseList.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.ViewStudentDetails.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.VisitingDetail.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.VisitorEntry.resources
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.vbproj.GenerateResource.Cache
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\RdlCompile.cache
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\RdlCompile.compiled
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.exe.manifest
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.application
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.exe
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.xml
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.pdb
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.vbprojResolveAssemblyReference.cache
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\bin\Debug\Hostel Mangement.xml
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Hostel Mangement 03-FEB-17\Hostel Mangement\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\bin\Debug\hms.accdb
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\bin\Debug\Hostel Mangement.exe.config
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\bin\Debug\Hostel Mangement.exe.manifest
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\bin\Debug\Hostel Mangement.application
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\bin\Debug\Hostel Mangement.exe
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\bin\Debug\Hostel Mangement.pdb
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\bin\Debug\Hostel Mangement.xml
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.vbprojResolveAssemblyReference.cache
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Interop.NATUPNPLib.dll
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.vbproj.ResolveComReference.cache
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.StudentCurrentStatus.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.StudentRoomAllotment.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Attendance_View.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Back_up.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.BusDetails.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.cal.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.CalenadarDemo.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.ChangePassword.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.ReportCollection.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptClassWiseStudentView.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptDueFeesStudentList.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptDueFeesStudentListClasswise.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptEmpDateWiseAttendance.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptEmployeePayment.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptIndividualStudentDetails.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptListOfWentStudents.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptOverallHostelStudents.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.DCindia.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.DeleteEmployeeDetails.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.dynamiceDemo.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.EmpAttendancenew.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Employee.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Employee_Payment.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.EmployeeDetailsView.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Expanse_Details.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Feepayment.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Form2.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Gaurd_View.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.LoginForm.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Hostel_Management_System.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Resources.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Room_Detail.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.RoomView.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptRemainingStudentlist.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptStudentBillPayment.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptStudentsWentToCollege.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.StudemtCheckInOutEntry.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.StudentBusWiseAttendance.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.StudentDeparture.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.ViewStudentDetails.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.VisitingDetail.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.VisitorEntry.resources
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.vbproj.GenerateResource.Cache
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\RdlCompile.cache
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\RdlCompile.compiled
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.exe.manifest
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.application
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.exe
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.xml
+C:\Hostel Mangement 09-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.pdb
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\bin\Debug\hms.accdb
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\bin\Debug\Hostel Mangement.exe.config
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\bin\Debug\Hostel Mangement.exe.manifest
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\bin\Debug\Hostel Mangement.application
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\bin\Debug\Hostel Mangement.exe
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\bin\Debug\Hostel Mangement.pdb
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\bin\Debug\Hostel Mangement.xml
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Interop.NATUPNPLib.dll
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.vbproj.ResolveComReference.cache
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.StudentCurrentStatus.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.StudentRoomAllotment.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Attendance_View.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Back_up.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.BusDetails.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.cal.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.CalenadarDemo.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.ChangePassword.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.ReportCollection.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptClassWiseStudentView.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptDueFeesStudentList.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptDueFeesStudentListClasswise.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptEmpDateWiseAttendance.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptEmployeePayment.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptIndividualStudentDetails.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptListOfWentStudents.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptOverallHostelStudents.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.DCindia.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.DeleteEmployeeDetails.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.EmpAttendancenew.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Employee.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Employee_Payment.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.EmployeeDetailsView.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Feepayment.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Gaurd_View.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.LoginForm.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Hostel_Management_System.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Resources.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.Room_Detail.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.RoomView.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptRemainingStudentlist.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptStudentBillPayment.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.rptStudentsWentToCollege.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.StudemtCheckInOutEntry.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.StudentBusWiseAttendance.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.StudentDeparture.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.ViewStudentDetails.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.VisitingDetail.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.VisitorEntry.resources
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.vbproj.GenerateResource.Cache
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\RdlCompile.cache
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\RdlCompile.compiled
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.exe.manifest
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.application
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.exe
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.xml
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.pdb
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel Mangement.vbprojResolveAssemblyReference.cache
+C:\Hostel Mangement 13-FEB-17\Hostel Mangement\obj\x86\Debug\Hostel_Mangement.HostelExpanse.resources

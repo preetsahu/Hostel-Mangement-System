@@ -1,0 +1,12 @@
+Use the Controls collection:
+
+Public Class Form1
+
+    Private Sub Form1_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles    MyBase.Load
+        Dim i As Integer
+       For i = 1 To 3
+            Dim myLabel As Label = CType(Me.Controls("lbl_" & i), Label)
+            myLabel.Text = ...whatever value you want to put here
+        Next
+    End Sub
+End Class

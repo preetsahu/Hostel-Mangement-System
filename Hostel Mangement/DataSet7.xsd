@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet7" targetNamespace="http://tempuri.org/DataSet7.xsd" xmlns:mstns="http://tempuri.org/DataSet7.xsd" xmlns="http://tempuri.org/DataSet7.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="hmsConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="hmsConnectionString (MySettings)" PropertyReference="ApplicationSettings.Hostel_Mangement.My.MySettings.GlobalReference.Default.hmsConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DataTable1TableAdapter" GeneratorDataComponentClassName="DataTable1TableAdapter" Name="DataTable1" UserDataComponentName="DataTable1TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="hmsConnectionString (MySettings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT    EmployeePayment.EMPLOYEE_ID, EmployeeDetails.EMPLOYEE_NAME, EmployeeDetails.PHOTO,
+EmployeeDetails.EMPLOYEE_CONTACT, EmployeeDetails.WORK_AS, EmployeeDetails.WORK_SHIFT, EmployeeDetails.SALARY,     EmployeePayment.PAYMENT_MODE, EmployeePayment.PAYED_AMOUNT, EmployeePayment.PAYMENT_DATE, EmployeePayment.REMAINING_PAYMENT, EmployeePayment.BANK_AC_NO AS Expr1,    EmployeePayment.IFSC_CODE FROM   (EmployeeDetails INNER JOIN  EmployeePayment ON EmployeeDetails.EMPLOYEE_ID = EmployeePayment.EMPLOYEE_ID)</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="EMPLOYEE_ID" DataSetColumn="EMPLOYEE_ID" />
+              <Mapping SourceColumn="EMPLOYEE_NAME" DataSetColumn="EMPLOYEE_NAME" />
+              <Mapping SourceColumn="EMPLOYEE_CONTACT" DataSetColumn="EMPLOYEE_CONTACT" />
+              <Mapping SourceColumn="WORK_AS" DataSetColumn="WORK_AS" />
+              <Mapping SourceColumn="WORK_SHIFT" DataSetColumn="WORK_SHIFT" />
+              <Mapping SourceColumn="SALARY" DataSetColumn="SALARY" />
+              <Mapping SourceColumn="PAYMENT_MODE" DataSetColumn="PAYMENT_MODE" />
+              <Mapping SourceColumn="PAYED_AMOUNT" DataSetColumn="PAYED_AMOUNT" />
+              <Mapping SourceColumn="PAYMENT_DATE" DataSetColumn="PAYMENT_DATE" />
+              <Mapping SourceColumn="REMAINING_PAYMENT" DataSetColumn="REMAINING_PAYMENT" />
+              <Mapping SourceColumn="Expr1" DataSetColumn="Expr1" />
+              <Mapping SourceColumn="IFSC_CODE" DataSetColumn="IFSC_CODE" />
+              <Mapping SourceColumn="PHOTO" DataSetColumn="PHOTO" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet7" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet7" msprop:Generator_UserDSName="DataSet7">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="EMPLOYEE_ID" msprop:Generator_ColumnVarNameInTable="columnEMPLOYEE_ID" msprop:Generator_ColumnPropNameInRow="EMPLOYEE_ID" msprop:Generator_ColumnPropNameInTable="EMPLOYEE_IDColumn" msprop:Generator_UserColumnName="EMPLOYEE_ID" type="xs:int" minOccurs="0" />
+              <xs:element name="EMPLOYEE_NAME" msprop:Generator_ColumnVarNameInTable="columnEMPLOYEE_NAME" msprop:Generator_ColumnPropNameInRow="EMPLOYEE_NAME" msprop:Generator_ColumnPropNameInTable="EMPLOYEE_NAMEColumn" msprop:Generator_UserColumnName="EMPLOYEE_NAME" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="EMPLOYEE_CONTACT" msprop:Generator_ColumnVarNameInTable="columnEMPLOYEE_CONTACT" msprop:Generator_ColumnPropNameInRow="EMPLOYEE_CONTACT" msprop:Generator_ColumnPropNameInTable="EMPLOYEE_CONTACTColumn" msprop:Generator_UserColumnName="EMPLOYEE_CONTACT" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="WORK_AS" msprop:Generator_ColumnVarNameInTable="columnWORK_AS" msprop:Generator_ColumnPropNameInRow="WORK_AS" msprop:Generator_ColumnPropNameInTable="WORK_ASColumn" msprop:Generator_UserColumnName="WORK_AS" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="WORK_SHIFT" msprop:Generator_ColumnVarNameInTable="columnWORK_SHIFT" msprop:Generator_ColumnPropNameInRow="WORK_SHIFT" msprop:Generator_ColumnPropNameInTable="WORK_SHIFTColumn" msprop:Generator_UserColumnName="WORK_SHIFT" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SALARY" msprop:Generator_ColumnVarNameInTable="columnSALARY" msprop:Generator_ColumnPropNameInRow="SALARY" msprop:Generator_ColumnPropNameInTable="SALARYColumn" msprop:Generator_UserColumnName="SALARY" type="xs:decimal" minOccurs="0" />
+              <xs:element name="PAYMENT_MODE" msprop:Generator_ColumnVarNameInTable="columnPAYMENT_MODE" msprop:Generator_ColumnPropNameInRow="PAYMENT_MODE" msprop:Generator_ColumnPropNameInTable="PAYMENT_MODEColumn" msprop:Generator_UserColumnName="PAYMENT_MODE" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PAYED_AMOUNT" msprop:Generator_ColumnVarNameInTable="columnPAYED_AMOUNT" msprop:Generator_ColumnPropNameInRow="PAYED_AMOUNT" msprop:Generator_ColumnPropNameInTable="PAYED_AMOUNTColumn" msprop:Generator_UserColumnName="PAYED_AMOUNT" type="xs:int" minOccurs="0" />
+              <xs:element name="PAYMENT_DATE" msprop:Generator_ColumnVarNameInTable="columnPAYMENT_DATE" msprop:Generator_ColumnPropNameInRow="PAYMENT_DATE" msprop:Generator_ColumnPropNameInTable="PAYMENT_DATEColumn" msprop:Generator_UserColumnName="PAYMENT_DATE" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="REMAINING_PAYMENT" msprop:Generator_ColumnVarNameInTable="columnREMAINING_PAYMENT" msprop:Generator_ColumnPropNameInRow="REMAINING_PAYMENT" msprop:Generator_ColumnPropNameInTable="REMAINING_PAYMENTColumn" msprop:Generator_UserColumnName="REMAINING_PAYMENT" type="xs:int" minOccurs="0" />
+              <xs:element name="Expr1" msprop:Generator_ColumnVarNameInTable="columnExpr1" msprop:Generator_ColumnPropNameInRow="Expr1" msprop:Generator_ColumnPropNameInTable="Expr1Column" msprop:Generator_UserColumnName="Expr1" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="IFSC_CODE" msprop:Generator_ColumnVarNameInTable="columnIFSC_CODE" msprop:Generator_ColumnPropNameInRow="IFSC_CODE" msprop:Generator_ColumnPropNameInTable="IFSC_CODEColumn" msprop:Generator_UserColumnName="IFSC_CODE" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PHOTO" msprop:Generator_ColumnVarNameInTable="columnPHOTO" msprop:Generator_ColumnPropNameInRow="PHOTO" msprop:Generator_ColumnPropNameInTable="PHOTOColumn" msprop:Generator_UserColumnName="PHOTO" type="xs:base64Binary" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

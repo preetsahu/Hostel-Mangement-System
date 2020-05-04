@@ -1,0 +1,33 @@
+ Private Sub btnTakeAttendance_Click(ByVal sender As Object, ByVal e As System.EventArgs) Handles btnTakeAttendance.Click
+        Dim con As New OleDbConnection
+        con = connectTOhms()
+        Try
+            con.Open()
+            query = "select * from EmployeeDetails"
+            Dim cmd As New OleDbCommand(query, con)
+            Dim reader As OleDbDataReader = cmd.ExecuteReader
+            i = 1
+            While reader.Read
+                Dim lblEmpName As New Label
+                lblEmpName.Name = reader(0).ToString & i
+                lblEmpName.Size = New Size(150, 20)
+                lblEmpName.Location = New Point(50, i * 20)                    'creating dynamic label
+                lblEmpName.Text = reader(1).ToString & i
+                'Me.Controls.Add(lblEmpName)
+                GroupBox1.Controls.Add(lblEmpName)
+
+                Dim chkbox As New CheckBox
+                chkbox.Name = "checkbox" & i
+                chkbox.Size = New Size(150, 20)                             'creating dynamic checkbox
+                chkbox.Location = New Point(200, i * 20)
+                chkbox.Checked = False
+                ' Me.Contdd(chkbox)rols.A
+                GroupBox1.Controls.Add(chkbox)
+                i = i + 1
+            End While
+        Catch ex As Exception
+            MessageBox.Show(ex.Message)
+        Finally
+            con.Close()
+        End Try
+    End Sub

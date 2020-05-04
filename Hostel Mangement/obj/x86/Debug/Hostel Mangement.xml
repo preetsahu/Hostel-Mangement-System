@@ -1,0 +1,419 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HostelMangement
+</name>
+</assembly>
+<members>
+<member name="T:Hostel_Mangement.DataSet6.RoomAllotmentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet6.RoomAllotmentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet6.RoomAllotmentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet6">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet6TableAdapters.RoomAllotmentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet6TableAdapters.TableAdapterManager.UpdateUpdatedRows(Hostel_Mangement.DataSet6,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet6TableAdapters.TableAdapterManager.UpdateInsertedRows(Hostel_Mangement.DataSet6,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet6TableAdapters.TableAdapterManager.UpdateDeletedRows(Hostel_Mangement.DataSet6,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet6TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet6TableAdapters.TableAdapterManager.UpdateAll(Hostel_Mangement.DataSet6)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet6TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet6TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet6TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet3.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet3.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet3.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet3">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet3TableAdapters.DataTable1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet3TableAdapters.TableAdapterManager.UpdateUpdatedRows(Hostel_Mangement.DataSet3,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet3TableAdapters.TableAdapterManager.UpdateInsertedRows(Hostel_Mangement.DataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet3TableAdapters.TableAdapterManager.UpdateDeletedRows(Hostel_Mangement.DataSet3,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet3TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet3TableAdapters.TableAdapterManager.UpdateAll(Hostel_Mangement.DataSet3)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet3TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet3TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet3TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Hostel_Mangement.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Hostel_Mangement.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Hostel_Mangement.My.Resources.Resources.nv">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Hostel_Mangement.My.Resources.Resources.nv1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Hostel_Mangement.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet8">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet2.RoomAllotmentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet2.RoomAllotmentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet2.RoomAllotmentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet2">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet2TableAdapters.RoomAllotmentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet2TableAdapters.TableAdapterManager.UpdateUpdatedRows(Hostel_Mangement.DataSet2,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet2TableAdapters.TableAdapterManager.UpdateInsertedRows(Hostel_Mangement.DataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet2TableAdapters.TableAdapterManager.UpdateDeletedRows(Hostel_Mangement.DataSet2,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet2TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet2TableAdapters.TableAdapterManager.UpdateAll(Hostel_Mangement.DataSet2)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet2TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet2TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet2TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet5.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet5.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet5.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet5">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet5TableAdapters.DataTable1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet5TableAdapters.TableAdapterManager.UpdateUpdatedRows(Hostel_Mangement.DataSet5,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet5TableAdapters.TableAdapterManager.UpdateInsertedRows(Hostel_Mangement.DataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet5TableAdapters.TableAdapterManager.UpdateDeletedRows(Hostel_Mangement.DataSet5,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet5TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet5TableAdapters.TableAdapterManager.UpdateAll(Hostel_Mangement.DataSet5)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet5TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet5TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet5TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="M:Hostel_Mangement.VisitingDetail.btnFindStudent_Click_1(System.Object,System.EventArgs)">
+----------------------------------------------- Search or Find Student --------------------------------------------------------- 
+
+</member><member name="T:Hostel_Mangement.DataSet1.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet1.ViewExpanseJoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet1.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet1.ViewExpanseJoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet1.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet1.ViewExpanseJoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet1TableAdapters.DataTable1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet1TableAdapters.ViewExpanseJoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Hostel_Mangement.DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Hostel_Mangement.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Hostel_Mangement.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet1TableAdapters.TableAdapterManager.UpdateAll(Hostel_Mangement.DataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet4.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet4.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet4.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet4">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet4TableAdapters.DataTable1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet4TableAdapters.TableAdapterManager.UpdateUpdatedRows(Hostel_Mangement.DataSet4,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet4TableAdapters.TableAdapterManager.UpdateInsertedRows(Hostel_Mangement.DataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet4TableAdapters.TableAdapterManager.UpdateDeletedRows(Hostel_Mangement.DataSet4,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet4TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet4TableAdapters.TableAdapterManager.UpdateAll(Hostel_Mangement.DataSet4)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet4TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet4TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet4TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet7.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet7.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet7.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet7">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet7TableAdapters.DataTable1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet7TableAdapters.TableAdapterManager.UpdateUpdatedRows(Hostel_Mangement.DataSet7,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet7TableAdapters.TableAdapterManager.UpdateInsertedRows(Hostel_Mangement.DataSet7,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet7TableAdapters.TableAdapterManager.UpdateDeletedRows(Hostel_Mangement.DataSet7,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet7TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Hostel_Mangement.DataSet7TableAdapters.TableAdapterManager.UpdateAll(Hostel_Mangement.DataSet7)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet7TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet7TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Hostel_Mangement.DataSet7TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

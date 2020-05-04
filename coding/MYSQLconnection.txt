@@ -1,0 +1,40 @@
+Imports MySql.Data.MySqlClient
+Imports System.Data.Sql
+Imports System
+Imports System.Data
+Public Class Enquiry_form
+    Dim conn As New MySqlConnection
+    Dim ConnectionString As String
+    Dim cmd As MySqlCommand
+    Dim READER As MySqlDataReader
+    Public Sub connect()
+        Dim DatabaseName As String = "hosteldata"
+        Dim server As String = "127.0.0.1"
+        Dim userName As String = "root"
+        Dim password As String = "12345"
+        If Not conn Is Nothing Then conn.Close()
+        conn.ConnectionString = String.Format("server={0}; user id={1}; password={2}; database={3}; pooling=false", server, userName, password, DatabaseName)
+        Try
+            conn.Open()
+            MessageBox.Show("hello")
+        Catch ex As Exception
+            MsgBox(ex.Message)
+            conn.Close()
+        End Try
+    End Sub
+    Private Sub Button1_Click(ByVal sender As Object, ByVal e As EventArgs) Handles cmdSaveEnquiry.Click
+        Try
+            Dim Query As String
+            Query = "insert into demo (id, class, college) values ('" & TxtEnquiryID.Text & "','" & TxtFirstname.Text & "','" & TxtMiddleName.Text & "')"
+            cmd = New MySqlCommand(Query, conn)
+            cmd.ExecuteNonQuery()
+        Catch ex As Exception
+            MsgBox(ex.Message)
+            conn.Close()
+        End Try
+    End Sub
+
+
+ Private Sub Form3_Load(ByVal sender As Object, ByVal e As EventArgs) Handles MyBase.Load
+        connect()
+    End Sub

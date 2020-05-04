@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="1" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="hmsConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="hmsConnectionString (MySettings)" PropertyReference="ApplicationSettings.Hostel_Mangement.My.MySettings.GlobalReference.Default.hmsConnectionString" Provider="System.Data.OleDb" />
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="hmsConnectionString1" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="hmsConnectionString1 (MySettings)" PropertyReference="ApplicationSettings.Hostel_Mangement.My.MySettings.GlobalReference.Default.hmsConnectionString1" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="DataTable1TableAdapter" GeneratorDataComponentClassName="DataTable1TableAdapter" Name="DataTable1" UserDataComponentName="DataTable1TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="hmsConnectionString (MySettings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT  FeePayment.PAYED_AMOUNT, FeePayment.PAYMENT_DATE, FeePayment.REMAINING_AMOUNT, RoomAllotment.S_ID, RoomAllotment.NAME, RoomAllotment.CONTACT, RoomAllotment.CLASS, RoomAllotment.COURSE_YEAR FROM  (FeePayment INNER JOIN   RoomAllotment ON FeePayment.S_ID = RoomAllotment.S_ID)</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="PAYED_AMOUNT" DataSetColumn="PAYED_AMOUNT" />
+              <Mapping SourceColumn="PAYMENT_DATE" DataSetColumn="PAYMENT_DATE" />
+              <Mapping SourceColumn="REMAINING_AMOUNT" DataSetColumn="REMAINING_AMOUNT" />
+              <Mapping SourceColumn="S_ID" DataSetColumn="S_ID" />
+              <Mapping SourceColumn="NAME" DataSetColumn="NAME" />
+              <Mapping SourceColumn="CONTACT" DataSetColumn="CONTACT" />
+              <Mapping SourceColumn="CLASS" DataSetColumn="CLASS" />
+              <Mapping SourceColumn="COURSE_YEAR" DataSetColumn="COURSE_YEAR" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="ViewExpanseJoinTableAdapter" GeneratorDataComponentClassName="ViewExpanseJoinTableAdapter" Name="ViewExpanseJoin" UserDataComponentName="ViewExpanseJoinTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="hmsConnectionString1 (MySettings)" DbObjectName="ViewExpanseJoin" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT ITEM_ID, Expanse_Date, Expanse_Category, DESCRIPTION, AMOUNT, BILL_NUMBER FROM ViewExpanseJoin</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="ITEM_ID" DataSetColumn="ITEM_ID" />
+              <Mapping SourceColumn="Expanse_Date" DataSetColumn="Expanse_Date" />
+              <Mapping SourceColumn="Expanse_Category" DataSetColumn="Expanse_Category" />
+              <Mapping SourceColumn="DESCRIPTION" DataSetColumn="DESCRIPTION" />
+              <Mapping SourceColumn="AMOUNT" DataSetColumn="AMOUNT" />
+              <Mapping SourceColumn="BILL_NUMBER" DataSetColumn="BILL_NUMBER" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="PAYED_AMOUNT" msprop:Generator_ColumnVarNameInTable="columnPAYED_AMOUNT" msprop:Generator_ColumnPropNameInRow="PAYED_AMOUNT" msprop:Generator_ColumnPropNameInTable="PAYED_AMOUNTColumn" msprop:Generator_UserColumnName="PAYED_AMOUNT" type="xs:int" minOccurs="0" />
+              <xs:element name="PAYMENT_DATE" msprop:Generator_ColumnVarNameInTable="columnPAYMENT_DATE" msprop:Generator_ColumnPropNameInRow="PAYMENT_DATE" msprop:Generator_ColumnPropNameInTable="PAYMENT_DATEColumn" msprop:Generator_UserColumnName="PAYMENT_DATE" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="REMAINING_AMOUNT" msprop:Generator_ColumnVarNameInTable="columnREMAINING_AMOUNT" msprop:Generator_ColumnPropNameInRow="REMAINING_AMOUNT" msprop:Generator_ColumnPropNameInTable="REMAINING_AMOUNTColumn" msprop:Generator_UserColumnName="REMAINING_AMOUNT" type="xs:int" minOccurs="0" />
+              <xs:element name="S_ID" msprop:Generator_ColumnVarNameInTable="columnS_ID" msprop:Generator_ColumnPropNameInRow="S_ID" msprop:Generator_ColumnPropNameInTable="S_IDColumn" msprop:Generator_UserColumnName="S_ID" type="xs:int" minOccurs="0" />
+              <xs:element name="NAME" msprop:Generator_ColumnVarNameInTable="columnNAME" msprop:Generator_ColumnPropNameInRow="NAME" msprop:Generator_ColumnPropNameInTable="NAMEColumn" msprop:Generator_UserColumnName="NAME" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CONTACT" msprop:Generator_ColumnVarNameInTable="columnCONTACT" msprop:Generator_ColumnPropNameInRow="CONTACT" msprop:Generator_ColumnPropNameInTable="CONTACTColumn" msprop:Generator_UserColumnName="CONTACT" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="CLASS" msprop:Generator_ColumnVarNameInTable="columnCLASS" msprop:Generator_ColumnPropNameInRow="_CLASS" msprop:Generator_ColumnPropNameInTable="CLASSColumn" msprop:Generator_UserColumnName="CLASS" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="COURSE_YEAR" msprop:Generator_ColumnVarNameInTable="columnCOURSE_YEAR" msprop:Generator_ColumnPropNameInRow="COURSE_YEAR" msprop:Generator_ColumnPropNameInTable="COURSE_YEARColumn" msprop:Generator_UserColumnName="COURSE_YEAR" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ViewExpanseJoin" msprop:Generator_TableClassName="ViewExpanseJoinDataTable" msprop:Generator_TableVarName="tableViewExpanseJoin" msprop:Generator_TablePropName="ViewExpanseJoin" msprop:Generator_RowDeletingName="ViewExpanseJoinRowDeleting" msprop:Generator_RowChangingName="ViewExpanseJoinRowChanging" msprop:Generator_RowEvHandlerName="ViewExpanseJoinRowChangeEventHandler" msprop:Generator_RowDeletedName="ViewExpanseJoinRowDeleted" msprop:Generator_UserTableName="ViewExpanseJoin" msprop:Generator_RowChangedName="ViewExpanseJoinRowChanged" msprop:Generator_RowEvArgName="ViewExpanseJoinRowChangeEvent" msprop:Generator_RowClassName="ViewExpanseJoinRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ITEM_ID" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnITEM_ID" msprop:Generator_ColumnPropNameInRow="ITEM_ID" msprop:Generator_ColumnPropNameInTable="ITEM_IDColumn" msprop:Generator_UserColumnName="ITEM_ID" type="xs:int" />
+              <xs:element name="Expanse_Date" msprop:Generator_ColumnVarNameInTable="columnExpanse_Date" msprop:Generator_ColumnPropNameInRow="Expanse_Date" msprop:Generator_ColumnPropNameInTable="Expanse_DateColumn" msprop:Generator_UserColumnName="Expanse_Date" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="Expanse_Category" msprop:Generator_ColumnVarNameInTable="columnExpanse_Category" msprop:Generator_ColumnPropNameInRow="Expanse_Category" msprop:Generator_ColumnPropNameInTable="Expanse_CategoryColumn" msprop:Generator_UserColumnName="Expanse_Category" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DESCRIPTION" msprop:Generator_ColumnVarNameInTable="columnDESCRIPTION" msprop:Generator_ColumnPropNameInRow="DESCRIPTION" msprop:Generator_ColumnPropNameInTable="DESCRIPTIONColumn" msprop:Generator_UserColumnName="DESCRIPTION" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="AMOUNT" msprop:Generator_ColumnVarNameInTable="columnAMOUNT" msprop:Generator_ColumnPropNameInRow="AMOUNT" msprop:Generator_ColumnPropNameInTable="AMOUNTColumn" msprop:Generator_UserColumnName="AMOUNT" type="xs:int" minOccurs="0" />
+              <xs:element name="BILL_NUMBER" msprop:Generator_ColumnVarNameInTable="columnBILL_NUMBER" msprop:Generator_ColumnPropNameInRow="BILL_NUMBER" msprop:Generator_ColumnPropNameInTable="BILL_NUMBERColumn" msprop:Generator_UserColumnName="BILL_NUMBER" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:ViewExpanseJoin" />
+      <xs:field xpath="mstns:ITEM_ID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

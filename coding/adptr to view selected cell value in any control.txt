@@ -1,0 +1,10 @@
+TextBox1.Text = ""
+Dim FirstValue As Boolean =  True 
+Dim cell As DataGridViewCell
+For Each cell In DataGridView1.SelectedCells
+    If Not FirstValue Then
+        TextBox1.Text += ", "
+    End If
+    TextBox1.Text += cell.Value.ToString()
+    FirstValue = False
+Next

@@ -1,0 +1,20 @@
+'filling the comboBox with database in load event or another event
+
+Dim con As New OleDbConnection
+        con = connectTOhms()
+        Dim dt As New DataTable
+        Try
+            con.Open()
+            query = "select * from RoomDetails"
+            adptr = New OleDbDataAdapter(query, con)
+            adptr.Fill(dt)
+            cboRoomID.DataSource = dt
+            cboRoomID.DisplayMember = "ROOM_ID"
+            cboBedID.DataSource = dt
+            cboBedID.DisplayMember = "AVAILABLE_BED_ID"
+            adptr.Dispose()
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        Finally
+            con.Close()
+        End Try

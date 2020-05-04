@@ -1,0 +1,19 @@
+Private Sub Button1_Click(ByVal sender As System.Object, ByVal e  As System.EventArgs) Handles Button1.Click
+
+    Dim lbl As New label
+    lbl.Size = New System.Drawing.Size(159, 23) 'set your size
+    lbl.Location = New System.Drawing.Point(12, 180) 'set your location
+    lbl.Text = (TextBox1.Text) 'set your name
+    Me.Controls.Add(lbl)  'add your new control to your forms control collection
+
+End Sub
+
+
+Private Sub lblCreateLabel_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles lblCreateLabel.Click
+    Dim label1 As New Label
+    label1.Name = "label1"
+    label1.Text = "Enter Name"
+    label1.AutoSize = True
+    label1.Location = New Point(80, 33)
+    GroupBox1.Controls.Add(label1)
+End Sub

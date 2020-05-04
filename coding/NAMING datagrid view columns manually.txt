@@ -1,0 +1,5 @@
+
+dtgridEmpAttendance.Columns(0).Name = "Employee ID"             'NAMING datagrid view columns manually
+dtgridEmpAttendance.Columns(1).Name = "Available Status"
+dtgridEmpAttendance.Columns(2).Name = "Current Date"
+dtgridEmpAttendance.Columns(3).Name = "Reason"

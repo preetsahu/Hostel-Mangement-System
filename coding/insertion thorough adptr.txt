@@ -1,0 +1,11 @@
+ 
+''''insert query using oledb adapter
+dim con as new oledbconnection
+con.connectionstring=provider
+
+Dim adp As New OleDbDataAdapter
+        adp.InsertCommand = New OleDbCommand
+        adp.InsertCommand.CommandText = "query for insert"
+	adp.InsertCommand.Connection=con
+	adp.InsertCommand.excecuteNonQuery
+	

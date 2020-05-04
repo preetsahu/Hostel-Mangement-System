@@ -1,0 +1,10 @@
+
+            dtgridEmpAttendance.GridColor = Color.Aqua
+            dtgridEmpAttendance.BackgroundColor = Color.LightGray
+            dtgridEmpAttendance.CellBorderStyle = DataGridViewCellBorderStyle.None
+            dtgridEmpAttendance.SelectionMode = DataGridViewSelectionMode.FullRowSelect         'formatting datagrid
+            dtgridEmpAttendance.DefaultCellStyle.SelectionBackColor = Color.Cyan
+            dtgridEmpAttendance.DefaultCellStyle.SelectionForeColor = Color.DarkBlue
+            dtgridEmpAttendance.RowsDefaultCellStyle.BackColor = Color.Bisque
+            dtgridEmpAttendance.AllowUserToResizeRows = False
+            dtgridEmpAttendance.AlternatingRowsDefaultCellStyle.BackColor = Color.Beige

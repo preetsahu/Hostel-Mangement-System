@@ -1,0 +1,5 @@
+﻿------ Build started: Project: Hostel Mangement, Configuration: Debug x86 ------
+  COM Reference 'ShockwaveFlashObjects' is the interop assembly for ActiveX control 'AxShockwaveFlashObjects' but was marked to be linked by the compiler with the /link flag. This COM reference will be treated as a reference and will not be linked.
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.targets(3102,5): warning MSB3187: Referenced assembly 'C:\Windows\assembly\GAC_32\log4net\1.2.10.0__692fbea5521e1304\log4net.dll' targets a different processor than the application.
+  Hostel Mangement -> C:\Hostel Mangement 09-FEB-17\Hostel Mangement\bin\Debug\Hostel Mangement.exe
+========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========

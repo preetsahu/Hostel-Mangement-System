@@ -1,0 +1,43 @@
+Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
+        Dim ds As New DataSet
+        Dim con As New OleDbConnection
+        con = connectTOhms()
+        Dim i As Integer
+        i = Val(txtstudentid.Text)
+        Dim sname As String
+        sname = txtstudentname.Text
+        If Val(txtstudentid.Text) = i Then
+            'i = txtstudentid.Text
+            qc = "where S_ID=" + i
+        ElseIf txtstudentid.Text = " " Then
+            If txtstudentname.Text = sname Then
+                qc = "where NAME=" + sname
+            End If
+        End If
+        Try
+            con.Open()
+            query = "select * from RoomAllotment where" + qc
+            adptr = New OleDbDataAdapter(query, con)
+            adptr.Fill(ds, "NAME")
+            txtstudentname.Text = ds.Tables("NAME").Rows(0).Item(2)
+            txtstudentid.Text = ds.Tables("NAME").Rows(0).Item(0)
+            txtstudentcontact.Text = ds.Tables("NAME").Rows(0).Item(3)
+            txtfathername.Text = ds.Tables("NAME").Rows(0).Item(5)
+            txtfathercontact.Text = ds.Tables("NAME").Rows(0).Item(6)
+            txtmothername.Text = ds.Tables("NAME").Rows(0).Item(7)
+            txtmothercontact.Text = ds.Tables("NAME").Rows(0).Item(8)
+            txtpermanentaddress.Text = ds.Tables("NAME").Rows(0).Item(9)
+            txtlocalguardiancontact.Text = ds.Tables("NAME").Rows(0).Item(10)
+            txtlocaladdress.Text = ds.Tables("NAME").Rows(0).Item(11)
+            cboclass.Text = ds.Tables("NAME").Rows(0).Item(12)
+            cboyear.Text = ds.Tables("NAME").Rows(0).Item(13)
+            cboBedID.Text = ds.Tables("NAME").Rows(0).Item(14)
+            txtbusid.Text = ds.Tables("NAME").Rows(0).Item(15)
+            txtrouteid.Text = ds.Tables("NAME").Rows(0).Item(16)
+            con.Dispose()
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        Finally
+            con.Close()
+        End Try
+    End Sub

@@ -1,0 +1,19 @@
+Private Sub r_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+        Dim query As String = "SELECT  FeePayment.S_ID, FeePayment.PAYED_AMOUNT, FeePayment.PAYMENT_DATE,   RoomAllotment.NAME, RoomAllotment.CONTACT, RoomAllotment.CLASS,   RoomAllotment.COURSE_YEAR,                           RoomAllotment.ROOM_ID, RoomAllotment.BUS_ID,   FeePayment.REMAINING_AMOUNT FROM            (FeePayment INNER JOIN                          RoomAllotment ON FeePayment.S_ID = RoomAllotment.S_ID) "
+        Dim con As New OleDbConnection
+        con = connectTOhms()
+        con.Open()
+        Try
+            Dim adptr As New OleDbDataAdapter(query, con)
+            Dim DataSet2 As New DataSet
+            adptr.Fill(DataSet2, "DataSet2")
+            ReportViewer1.LocalReport.ReportPath = "E:\bca3\Hostel Mangement Preet\Hostel Mangement\Report2.rdlc"
+            ReportViewer1.LocalReport.DataSources.Clear()
+            ReportViewer1.LocalReport.DataSources.Add(New ReportDataSource("DataSet2", DataSet2.Tables("DataSet2")))
+
+            ReportViewer1.Refresh()
+
+
+        Catch ex As Exception
+            MsgBox(ex.Message)
+        End Try

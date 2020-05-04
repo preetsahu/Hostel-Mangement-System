@@ -1,0 +1,11 @@
+			1.overall list of student
+			2.classwise list of student
+3.student's current status for visitor---------------------
+4.attendance report
+5.fees status report
+			6.check in check out entry////////////////
+7.fees due of student report
+8.list of students went clg on a particulR DAY
+9.list of student remaining in hostel on a particular day
+10.details of a particular student 
+		--fees 2--attendance(of a specified duration)

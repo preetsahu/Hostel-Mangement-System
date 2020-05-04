@@ -1,0 +1,6 @@
+final and finally
+through and throughs
+multi threading
+interface
+multiple innheritence
+applet life cycle
